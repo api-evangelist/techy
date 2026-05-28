@@ -1,0 +1,32 @@
+aid: techy
+name: Techy
+description: "JSON and Plaintext API for tech-savvy sounding phrases"
+url: https://techy-api.vercel.app/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: Techy
+    description: "JSON and Plaintext API for tech-savvy sounding phrases"
+    humanURL: https://techy-api.vercel.app/
+    baseURL: https://techy-api.vercel.app/
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://techy-api.vercel.app/
+common:
+  - type: Website
+    url: https://techy-api.vercel.app/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
