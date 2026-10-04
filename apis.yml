@@ -39,7 +39,6 @@ apis:
   - name: Techy
     description: "JSON and Plaintext API for tech-savvy sounding phrases"
     humanURL: https://techy-api.vercel.app/
-    baseURL: https://techy-api.vercel.app/
     tags:
       - Entertainment
     properties:
